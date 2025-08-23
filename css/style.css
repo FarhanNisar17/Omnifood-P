@@ -670,25 +670,7 @@
   font-size: 1.8rem; /*anchor element inherts the size*/
 }
 
-.list {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 1.6rem;
-}
 
-.list-item {
-  font-size: 1.8rem;
-  display: flex;
-  align-items: center;
-  gap: 1.6rem;
-}
-
-.list-icon {
-  width: 3rem;
-  height: 3rem;
-  color: #e67e22;
-}
 
 /* *************************************/
 /* Testimonials Section */
@@ -747,4 +729,12 @@
 
 .gallery-item img:hover {
   transform: scale(1.1);
+}
+
+/* *************************************/
+/* Pricing Section */
+/* *********************************** */
+
+.section-pricing{
+  padding: 9.6rem 0;
 }
