@@ -311,7 +311,7 @@
 
 .all-recipes {
   text-align: center;
-  font-size: 1.8rem; /*anchor element inherts the size*/
+  font-size: 1.8rem;    /*anchor element inherts the size*/
 }
 
 /* *************************************/
